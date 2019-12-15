@@ -1,0 +1,3 @@
+SELECT Sum(Price) as TotalPrice
+FROM Purchases;
+
